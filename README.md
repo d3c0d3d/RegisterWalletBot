@@ -1,6 +1,7 @@
 # RegisterWalletBot - Experiment
 
 #### Required .NET 6.0-Windows
+#### * Copy CLI Wallet to Application Path
 
 ### Clone
 ```
